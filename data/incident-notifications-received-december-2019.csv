@@ -1,0 +1,194 @@
+UniqueReferenceNumber(URN) ,IncidentDate,IncidentCategory,ProductType,ProductOriginCountry ,NotifierType
+ICID00036084,2019-12-01,Foreign Bodies,Poultry Meat & Poultry Meat Products,United Kingdom (GB),General Public
+ICID00036085,2019-12-01,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036086,2019-12-01,Pesticide Residues,Fruits & Vegetables,India (IN),Border Inspection Posts (BIPs)
+ICID00036087,2019-12-02,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Department of Agriculture & Rural Development (DARD)
+ICID00036089,2019-12-02,Poor or Insufficient Controls,N/A,United Kingdom (GB),Local Authority
+ICID00036090,2019-12-02,Poor or Insufficient Controls,N/A,United Kingdom (GB),Local Authority
+ICID00036091,2019-12-02,Biotoxins (other),N/A,United Kingdom (GB),Other
+ICID00036092,2019-12-02,Allergens,Confectionery,United Kingdom (GB),Industry
+ICID00036093,2019-12-03,Clandestine Detection,Fruits & Vegetables,Portugal (PT),Home Office / Border Force
+ICID00036094,2019-12-02,Labelling Absent / Incomplete / Incorrect,Nuts / Nut Products / Seeds,India (IN),Border Inspection Posts (BIPs)
+ICID00036095,2019-12-02,Labelling Absent / Incomplete / Incorrect,Prepared Dishes & Snacks,Turkey (TR),Border Inspection Posts (BIPs)
+ICID00036096,2019-12-02,Labelling Absent / Incomplete / Incorrect,Prepared Dishes & Snacks,Turkey (TR),Border Inspection Posts (BIPs)
+ICID00036097,2019-12-03,Pesticide Residues,Fruits & Vegetables,Morocco (MA),Port Health Authority (PHA)
+ICID00036098,2019-12-03,Clandestine Detection,Fruits & Vegetables,France (FR),Local Authority
+ICID00036099,2019-12-03,Clandestine Detection,Fruits & Vegetables,Spain (ES),Local Authority
+ICID00036100,2019-12-03,Labelling Absent / Incomplete / Incorrect,Non-Alcoholic Beverages,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036101,2019-12-03,Pathogenic Micro-Organisms,Feed Materials,United Kingdom (GB),Industry
+ICID00036103,2019-12-03,Allergens,Confectionery,Netherlands (NL),Local Authority
+ICID00036104,2019-12-03,Allergens,Cereals & Bakery Products,United Kingdom (GB),Local Authority
+ICID00036105,2019-12-03,Allergens,Prepared Dishes & Snacks ,United Kingdom (GB),Industry
+ICID00036106,2019-12-03,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),United Kingdom (GB),Industry
+ICID00036107,2019-12-04,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),RASFF
+ICID00036108,2019-12-04,Mycotoxins,Nuts / Nut Products / Seeds,Argentina (AR),Port Health Authority (PHA)
+ICID00036109,2019-12-04,Pesticide Residues,Fruits & Vegetables,Uganda (UG),Port Health Authority (PHA)
+ICID00036110,2019-12-02,Allergens,Confectionery,United States (US),Local Authority
+ICID00036111,2019-12-04,Allergens,Cereals & Bakery Products,Netherlands (NL),RASFF
+ICID00036112,2019-12-04,Labelling Absent / Incomplete / Incorrect,Alcoholic Beverages,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036113,2019-12-04,Labelling Absent / Incomplete / Incorrect,Meat & Meat Products (other than poultry),United Kingdom (GB),Local Authority
+ICID00036114,2019-12-02,Labelling Absent / Incomplete / Incorrect,Food Additives & Flavourings,United Kingdom (GB),European Commission (EC)
+ICID00036115,2019-12-05,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Department of Agriculture & Rural Development (DARD)
+ICID00036116,2019-12-05,Clandestine Detection,Confectionery,Poland (PL),Home Office / Border Force
+ICID00036117,2019-12-04,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036118,2019-12-05,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),RASFF
+ICID00036119,2019-12-05,Pathogenic Micro-Organisms,Bivalve Molluscs & Products Thereof,United Kingdom (GB),Local Authority
+ICID00036120,2019-12-05,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),European Commission (EC)
+ICID00036121,2019-12-05,Migration,Food Contact Materials,United Kingdom (GB),Other
+ICID00036122,2019-12-05,Chemical Contamination (other),Fruits & Vegetables,United Kingdom (GB),Other
+ICID00036123,2019-12-05,Allergens,Prepared Dishes & Snacks ,Sweden (SE),Industry
+ICID00036124,2019-12-05,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036125,2019-12-05,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),RASFF
+ICID00036126,2019-12-06,Composition,Dietetic Foods / Food Supplements / Fortified Foods,Canada (CA),RASFF
+ICID00036127,2019-12-06,Allergens,Prepared Dishes & Snacks,Lithuania (LT),Industry
+ICID00036128,2019-12-06,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,France (FR),Local Authority
+ICID00036129,2019-12-06,Biocontaminants,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036130,2019-12-06,Allergens,Confectionery,United Kingdom (GB),Industry
+ICID00036131,2019-12-06,Pathogenic Micro-Organisms,Milk & Milk Products,France (FR),Local Authority
+ICID00036132,2019-12-06,Poor or Insufficient Controls,Meat & Meat Products (other than poultry),Italy (IT),Local Authority
+ICID00036134,2019-12-08,Clandestine Detection,Other Food Product / Mixed,Spain (ES),Home Office / Border Force
+ICID00036135,2019-12-09,Food Additives & Flavourings,Prepared Dishes & Snacks,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036136,2019-12-09,Pesticide Residues,Fruits & Vegetables,India (IN),Port Health Authority (PHA)
+ICID00036137,2019-12-09,Poor or Insufficient Controls,Meat & Meat Products (other than poultry),United Kingdom (GB),Local Authority
+ICID00036138,2019-12-09,Mycotoxins,Nuts / Nut Products / Seeds,United States (US),Port Health Authority (PHA)
+ICID00036140,2019-12-09,Adulteration / Fraud,Meat & Meat Products (other than poultry),Ghana (GH),Port Health Authority (PHA)
+ICID00036141,2019-12-09,Adulteration / Fraud,Meat & Meat Products (other than poultry),Ghana (GH),Port Health Authority (PHA)
+ICID00036143,2019-12-09,Novel Food,Cereals & Bakery Products,China (CX),Port Health Authority (PHA)
+ICID00036144,2019-12-09,Migration,Food Contact Materials,China (CX),Port Health Authority (PHA)
+ICID00036145,2019-12-09,Labelling Absent / Incomplete / Incorrect,Other Food Product / Mixed,France (FR),Local Authority
+ICID00036146,2019-12-10,CHEMET,N/A,United Kingdom (GB),Local Authority
+ICID00036148,2019-12-10,Non-Pathogenic Micro-Organisims,Meat & Meat Products (other than poultry),Spain (ES),Industry
+ICID00036149,2019-12-10,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),Italy (IT),Industry
+ICID00036150,2019-12-10,Allergens,Prepared Dishes & Snacks,United Kingdom (GB),Food Standards Scotland (FSS)
+ICID00036151,2019-12-10,Mycotoxins,Nuts / Nut Products / Seeds,United States (US),Border Inspection Posts (BIPs)
+ICID00036152,2019-12-10,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036153,2019-12-04,Non-Pathogenic Micro-Organisims,Pet Food,United Kingdom (GB),Local Authority
+ICID00036154,2019-12-10,Food Additives & Flavourings,Non-Alcoholic Beverages,Nigeria (NG),European Commission (EC)
+ICID00036155,2019-12-10,Non-Pathogenic Micro-Organisims,Pet Food,United Kingdom (GB),RASFF
+ICID00036156,2019-12-11,Composition,Dietetic Foods / Food Supplements / Fortified Foods,Hungary (HU),Local Authority
+ICID00036157,2019-12-11,Allergens,Dietetic Foods / Food Supplements / Fortified Foods,Germany (DE),Industry
+ICID00036158,2019-12-11,Clandestine Detection,Cereals & Bakery Products,Italy (IT),Home Office / Border Force
+ICID00036159,2019-12-11,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036160,2019-12-10,Pathogenic Micro-Organisms,Prepared Dishes & Snacks,United Kingdom (GB),Public Health England (PHE)
+ICID00036161,2019-12-12,CHEMET,N/A,United Kingdom (GB),Fire Services
+ICID00036162,2019-12-12,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Department of Agriculture & Rural Development (DARD)
+ICID00036163,2019-12-12,Chemical Contamination (other),Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036164,2019-12-12,Allergens,Confectionery,United Kingdom (GB),Industry
+ICID00036165,2019-12-12,Composition,Cereals & Bakery Products,United Kingdom (GB),Local Authority
+ICID00036166,2019-12-12,Foreign Bodies,Fruits & Vegetables,United Kingdom (GB),National Health Service (NHS)
+ICID00036167,2019-12-12,Novel Food,Dietetic Foods / Food Supplements / Fortified Foods,India (IN),RASFF
+ICID00036168,2019-12-12,Allergens,Prepared Dishes & Snacks ,United Kingdom (GB),Local Authority
+ICID00036169,2019-12-12,Poor or Insufficient Controls,Fish & Fish Products,India (IN),Border Inspection Posts (BIPs)
+ICID00036171,2019-12-12,Non-Pathogenic Micro-Organisims,Feed Materials,Netherlands (NL),European Commission (EC)
+ICID00036173,2019-12-12,CHEMET,N/A,United Kingdom (GB),Fire Services
+ICID00036174,2019-12-13,CHEMET,N/A,United Kingdom (GB),Fire Services
+ICID00036177,2019-12-12,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036178,2019-12-12,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036179,2019-12-09,Poor or Insufficient Controls,Cereals & Bakery Products,United Kingdom (GB),Maritime & Coastguard Agency (MCA)
+ICID00036180,2019-12-12,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),United Kingdom (GB),Local Authority
+ICID00036181,2019-12-13,Food Additives & Flavourings,Confectionery,India (IN),Border Inspection Posts (BIPs)
+ICID00036182,2019-12-13,Pathogenic Micro-Organisms,Fish & Fish Products,United Kingdom (GB),Food Standards Scotland (FSS)
+ICID00036183,2019-12-13,Pathogenic Micro-Organisms,Milk & Milk Products ,United Kingdom (GB),Industry
+ICID00036184,2019-12-13,Labelling Absent / Incomplete / Incorrect,Animal By-Products,United Kingdom (GB),EU Member States
+ICID00036185,2019-12-13,Clandestine Detection,Fruits & Vegetables,Spain (ES),Police
+ICID00036186,2019-12-13,Allergens,Confectionery,United Kingdom (GB),Local Authority
+ICID00036187,2019-12-13,Allergens,Prepared Dishes & Snacks ,United Kingdom (GB),Industry
+ICID00036188,2019-12-14,Clandestine Detection,Herbs & Spices,Spain (ES),Home Office / Border Force
+ICID00036189,2019-12-13,Labelling Absent / Incomplete / Incorrect,Fruits & Vegetables,Turkey (TR),Border Inspection Posts (BIPs)
+ICID00036190,2019-12-13,Pesticide Residues,Fruits & Vegetables,India (IN),Border Inspection Posts (BIPs)
+ICID00036191,2019-12-16,Allergens,Soups / Broths / Sauces & Condiments,United Kingdom (GB),Local Authority
+ICID00036192,2019-12-16,Chemical Contamination (other),Bivalve Molluscs & Products Thereof,United Kingdom (GB),RASFF
+ICID00036193,2019-12-16,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,Poland (PL),RASFF
+ICID00036194,2019-12-16,Composition,Poultry Meat & Poultry Meat Products,United Kingdom (GB),Local Authority
+ICID00036195,2019-12-16,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),RASFF
+ICID00036196,2019-12-16,CHEMET,N/A,United Kingdom (GB),Met Office
+ICID00036197,2019-12-16,Mycotoxins,Fruits & Vegetables,Turkey (TR),Border Inspection Posts (BIPs)
+ICID00036198,2019-12-17,Clandestine Detection,Meat & Meat Products (other than poultry),Spain (ES),Home Office / Border Force
+ICID00036199,2019-12-16,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),RASFF
+ICID00036200,2019-12-17,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,Brazil (BR),Port Health Authority (PHA)
+ICID00036201,2019-12-17,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036202,2019-12-17,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),United Kingdom (GB),Local Authority
+ICID00036203,2019-12-17,Clandestine Detection,Fruits & Vegetables,United Kingdom (GB),Home Office / Border Force
+ICID00036204,2019-12-17,Allergens,Confectionery,United Kingdom (GB),General Public
+ICID00036205,2019-12-17,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036206,2019-12-18,Allergens,Fruits & Vegetables,United Kingdom (GB),Industry
+ICID00036207,2019-12-18,Non-Pathogenic Micro-Organisims,Fruits & Vegetables,Malaysia (MY),Local Authority
+ICID00036209,2019-12-18,Mycotoxins,Nuts / Nut Products / Seeds,United States (US),Port Health Authority (PHA)
+ICID00036211,2019-12-18,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Public Analyst / Laboratory
+ICID00036212,2019-12-18,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Public Analyst / Laboratory
+ICID00036213,2019-12-19,CHEMET,N/A,United Kingdom (GB),Fire Services
+ICID00036214,2019-12-19,Allergens,Milk & Milk Products,Italy (IT),Local Authority
+ICID00036215,2019-12-19,Clandestine Detection,Wine,France (FR),Home Office / Border Force
+ICID00036216,2019-12-19,Pathogenic Micro-Organisms,Pet Food,United Kingdom (GB),RASFF
+ICID00036217,2019-12-19,Poor or Insufficient Controls,Egg & Egg Products,United Kingdom (GB),Local Authority
+ICID00036218,2019-12-19,Labelling Absent / Incomplete / Incorrect,Dietetic Foods / Food Supplements / Fortified Foods,United Kingdom (GB),RASFF
+ICID00036219,2019-12-19,Allergens,Cereals & Bakery Products,United Kingdom (GB),Local Authority
+ICID00036220,2019-12-19,Composition,Cereals & Bakery Products,United Kingdom (GB),Industry
+ICID00036221,2019-12-19,Pesticide Residues,Fruits & Vegetables,Kenya (KE),RASFF
+ICID00036222,2019-12-19,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036223,2019-12-19,Packaging Defective / Incorrect,Cocoa / Cocoa Preparations / Coffee / Tea,Italy (IT),RASFF
+ICID00036224,2019-12-19,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United Kingdom (GB),RASFF
+ICID00036225,2019-12-19,Composition,Other Food Product / Mixed,United Kingdom (GB),FSA England
+ICID00036226,2019-12-20,Clandestine Detection,Other Food Product / Mixed,United Kingdom (GB),Home Office / Border Force
+ICID00036227,2019-12-20,Clandestine Detection,Cereals & Bakery Products,France (FR),Home Office / Border Force
+ICID00036228,2019-12-20,Clandestine Detection,Fruits & Vegetables,Romania (RO),Home Office / Border Force
+ICID00036229,2019-12-20,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036230,2019-12-20,Foreign Bodies,Soups / Broths / Sauces & Condiments,United Kingdom (GB),Local Authority
+ICID00036231,2019-12-20,Poor or Insufficient Controls,Fish & Fish Products,Thailand (TH),Border Inspection Posts (BIPs)
+ICID00036232,2019-12-20,Poor or Insufficient Controls,Fish & Fish Products,Thailand (TH),Border Inspection Posts (BIPs)
+ICID00036233,2019-12-20,Pathogenic Micro-Organisms,Bivalve Molluscs & Products Thereof,United Kingdom (GB),Local Authority
+ICID00036234,2019-12-20,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Department of Agriculture & Rural Development (DARD)
+ICID00036235,2019-12-19,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),United Kingdom (GB),Local Authority
+ICID00036236,2019-12-19,Allergens,Cereals & Bakery Products,United Kingdom (GB),Local Authority
+ICID00036237,2019-12-20,Labelling Absent / Incomplete / Incorrect,Poultry Meat & Poultry Meat Products,United Kingdom (GB),Industry
+ICID00036238,2019-12-20,Labelling Absent / Incomplete / Incorrect,Water,France (FR),European Commission (EC)
+ICID00036239,2019-12-20,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),European Commission (EC)
+ICID00036240,2019-12-20,Pathogenic Micro-Organisms,Dietetic Foods / Food Supplements / Fortified Foods,United Kingdom (GB),FSA Policy
+ICID00036241,2019-12-20,Poor or Insufficient Controls,Fish & Fish Products,Thailand (TH),Border Inspection Posts (BIPs)
+ICID00036242,2019-12-20,Labelling Absent / Incomplete / Incorrect,Poultry Meat & Poultry Meat Products,United Kingdom (GB),Industry
+ICID00036243,2019-12-20,Heavy Metals,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036244,2019-12-20,Food Additives & Flavourings,Dietetic Foods / Food Supplements / Fortified Foods,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036245,2019-12-20,Pesticide Residues,Fruits & Vegetables,India (IN),Border Inspection Posts (BIPs)
+ICID00036246,2019-12-20,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,Poland (PL),RASFF
+ICID00036247,2019-12-20,Allergens,Soups / Broths / Sauces & Condiments,Italy (IT),Industry
+ICID00036248,2019-12-21,CHEMET,N/A,United Kingdom (GB),Met Office
+ICID00036249,2019-12-21,Clandestine Detection,Fruits & Vegetables,Spain (ES),Local Authority
+ICID00036250,2019-12-21,Allergens,Poultry Meat & Poultry Meat Products,Netherlands (NL),RASFF
+ICID00036251,2019-12-22,Foreign Bodies,Prepared Dishes & Snacks ,United Kingdom (GB),General Public
+ICID00036252,2019-12-23,Mycotoxins,Cereals & Bakery Products,Poland (PL),EU Member States
+ICID00036253,2019-12-20,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,Poland (PL),RASFF
+ICID00036254,2019-12-23,Feed Additives,Feed Materials,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036255,2019-12-23,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036256,2019-12-23,Pesticide Residues,Cereals & Bakery Products,Brazil (BR),EU Member States
+ICID00036257,2019-12-23,Poor or Insufficient Controls,Egg & Egg Products,United Kingdom (GB),Industry
+ICID00036258,2019-12-23,Labelling Absent / Incomplete / Incorrect,Soups / Broths / Sauces & Condiments,United Kingdom (GB),Industry
+ICID00036259,2019-12-23,Pesticide Residues,Nuts / Nut Products / Seeds,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036260,2019-12-23,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Animal & Plant Health Agency (APHA)
+ICID00036261,2019-12-23,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Department of Agriculture & Rural Development (DARD)
+ICID00036262,2019-12-23,Residues of Veterinary Medicinal Products,Meat & Meat Products (other than poultry),United Kingdom (GB),Department of Agriculture & Rural Development (DARD)
+ICID00036263,2019-12-23,Poor or Insufficient Controls,Poultry Meat & Poultry Meat Products,United Kingdom (GB),Food Standards Scotland (FSS)
+ICID00036264,2019-12-23,Allergens,Milk & Milk Products,Italy (IT),Local Authority
+ICID00036265,2019-12-23,Foreign Bodies,Meat & Meat Products (other than poultry),Bulgaria (BG),Local Authority
+ICID00036266,2019-12-24,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,United Kingdom (GB),Industry
+ICID00036267,2019-12-23,Mycotoxins,Nuts / Nut Products / Seeds,Turkey (TR),Port Health Authority (PHA)
+ICID00036268,2019-12-20,Poor or Insufficient Controls,Meat & Meat Products (other than poultry),Spain (ES),Local Authority
+ICID00036269,2019-12-24,Novel Food,Dietetic Foods / Food Supplements / Fortified Foods,Spain (ES),RASFF
+ICID00036270,2019-12-24,Labelling Absent / Incomplete / Incorrect,Feed Materials,United Kingdom (GB),RASFF
+ICID00036271,2019-12-24,Labelling Absent / Incomplete / Incorrect,Soups / Broths / Sauces & Condiments,Switzerland (CH),Industry
+ICID00036272,2019-12-24,CHEMET,N/A,United Kingdom (GB),Met Office
+ICID00036273,2019-12-24,Pathogenic Micro-Organisms,Meat & Meat Products (other than poultry),United Kingdom (GB),Food Standards Scotland (FSS)
+ICID00036274,2019-12-24,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036275,2019-12-25,Pathogenic Micro-Organisms,Poultry Meat & Poultry Meat Products,Poland (PL),RASFF
+ICID00036276,2019-12-26,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036277,2019-12-27,Clandestine Detection,Fruits & Vegetables,Spain (ES),Home Office / Border Force
+ICID00036278,2019-12-27,Organoleptic Aspects,Crustaceans & Products Thereof,United Kingdom (GB),RASFF
+ICID00036279,2019-12-27,Allergens,Non-Alcoholic Beverages,United Kingdom (GB),FSA England
+ICID00036280,2019-12-29,Mycotoxins,Nuts / Nut Products / Seeds,Netherlands (NL),European Commission (EC)
+ICID00036281,2019-12-30,Poor or Insufficient Controls,Meat & Meat Products (other than poultry),United Kingdom (GB),National Food Crime Unit (NFCU)
+ICID00036282,2019-12-30,Composition,Dietetic Foods / Food Supplements / Fortified Foods,United States (US),European Commission (EC)
+ICID00036283,2019-12-30,Allergens,Other Food Product / Mixed,United Kingdom (GB),Industry
+ICID00036284,2019-12-31,Clandestine Detection,Non-Alcoholic Beverages,Spain (ES),Police
+ICID00036306,2019-12-19,Labelling Absent / Incomplete / Incorrect,Milk & Milk Products,United Kingdom (GB),Administrative Assistance & Cooperation System (AAC)
+ICID00036327,2019-12-12,Labelling Absent / Incomplete / Incorrect,Nuts / Nut Products / Seeds,Nigeria (NG),Border Inspection Posts (BIPs)
+ICID00036328,2019-12-12,Labelling Absent / Incomplete / Incorrect,Crustaceans & Products Thereof,Nigeria (NG),Border Inspection Posts (BIPs)
+ICID00036414,2019-12-14,Pesticide Residues,Fruits & Vegetables,India (IN),Border Inspection Posts (BIPs)
